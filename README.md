@@ -1,6 +1,6 @@
-## Hello there 👋, my name is Damir
+## Hello there 👋, I'm Damir!
 
-I am currently a Staff Software Engineer @ [Varo Bank](https://github.com/VaroBank), working with technologies such as React, React Native, TypeScript, GraphQL, Kotlin and PostgreSQL.
+I am currently a Staff Software Engineer @ [Varo Bank](https://github.com/VaroBank), working with technologies such as TypeScript, React, React Native, Storybook, Figma, React Testing Library, GraphQL, Kotlin and PostgreSQL.
 
 You can find me one the following socials: [LinkedIn](https://www.linkedin.com/in/damirharambasic) and [Twitter](https://www.x.com/damdeez) (no longer active on here) or you can get more information about me on my [website](https://www.damir.fun).
 <!--
