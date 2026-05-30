@@ -1,6 +1,6 @@
 ## Hello there 👋, I'm Damir!
 
-I am currently a Staff Software Engineer @ [Varo Bank](https://github.com/VaroBank), working with technologies such as TypeScript, React, React Native (Expo), Storybook, Figma, React Testing Library, GraphQL, Node.js and PostgreSQL. Outside of my main day-time gig, I like to tinker around with other tech such as NextJS, Tailwind and Astro,
+I am currently a Staff Software Engineer @ [Varo Bank](https://github.com/VaroBank), working with technologies such as TypeScript, React, React Native (Expo), Storybook, Figma, React Testing Library, GraphQL, Node.js and PostgreSQL. Outside of my main day-time gig, I am building [RackLab](https://www.racklab.tech).
 
 You can find me one the following socials: [LinkedIn](https://www.linkedin.com/in/damirharambasic) or you can get more information about me on my [website](https://www.damir.fun).
 <!--
